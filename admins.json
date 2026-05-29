@@ -1,75 +1,11 @@
 [
-{
-    "1": [
-        "Emily_Quincy", "Dmitriy_Ogonkov", "Alim_Komarov", "Jack_Morozov",
-        "Sergey_Streltsov", "Nestor_Rutherford", "Adrian_Litvintsev", "Alex_Morrison", "Alexander_Grozniy",
-        "Andrey_Semp", "Andrey_Valyaev", "Artem_Augustov", "Artemiy_Lisiuk", "Egor_Sobakevich",
-        "Ivan_Gryb", "Kamilla_Florenz", "Maksim_Harlamow", "Melody_Wayne", "Nick_Kotik",
-        "Vladimir_Smash", "Wolfgang_Schneiderhan", "Johnny_Smith", "Pavel_Toporov", "David_Seliverstov",
-        "Ivan_Prahodskiy", "Veynar_Halvardsen", "Arseniy_Blackwood", "Artem_Pankov", "Dmitriy_Kabanchikov",
-        "Eric_Morris", "Ethan_Santoro", "Sergey_Gromenko", "Stepan_Vorobyev", "Victor_Lamadjo",
-        "York_MacLeod"
-    ],
-    "2": [
-        "Maria_Alekseeva", "Alexander_Krutov", "Arseniy_Maltsev", "William_Great",
-        "Alexander_Gasanov", "Antonio_Zubenko", "Ksenia_Groznaya", "Franklin_White", "Maxim_Gornadzorov",
-        "Aleksandr_Grozniy", "Daniil_Lantratov", "Daniil_Wolskiy", "Don_Vice", "Illya_Santiz",
-        "Jack_Turner", "Vladislav_Alen", "Karolina_Kaspiyskaya", "Roman_Lisov", "Vladislav_Townley",
-        "Vyacheslav_Rublev", "Dmitriy_Ostrovskiy", "Aleksandr_Biketov", "Stefan_King", "Danil_Naumow",
-        "Dmitry_Pretty", "Pablo_King", "Tony_King", "Kita_Kayman", "Rodion_Topolskiy",
-        "Evgeniy_Wolskiy", "Roman_Kuts", "Jonathan_Kayman", "Danila_Flaneks", "Angelar_Kayman",
-        "Alexey_Krutov", "Max_Gyf", "Leo_King", "Evgeniy_Sukhumskiy", "Yaroslav_Korneev"
-    ],
-    "3": [
-        "Vladislav_Kiselev", "Eric_Collins", "Danil_Astov", "Dmitriy_Scheglov",
-        "Eduard_Vysotskiy", "Fedor_Khalifa", "Prokhor_Lukoyanov", "Vladislav_Sutagin", "Alex_Trushin",
-        "Alexandr_Yankee", "Alina_Solntsevskaya", "Dmitriy_Dennica", "Francesco_Grizzly", "Ivan_Ryzov",
-        "Kirill_Mirnyy", "Radmir_Pyatkin", "Rodion_Vistnik", "Sergei_Black", "Thomas_Barinov",
-        "Vladislav_Macalister", "Walter_Neal", "Daniel_Campbell", "Daniil_Shock", "Elisey_Marlboro",
-        "Ilya_Anillov", "Ivan_Odintsov", "Maksim_Kancler", "Mironu_Kataray", "Ramiz_White",
-        "Sergei_Yamrazh", "Torsten_Gerwig", "Yuko_Mori", "Jevgeni_Djagilev", "Danil_Moskov",
-        "Daniil_Tairov", "Egor_Hill", "Richard_Frank"
-    ],
-    "4": [
-        "Claus_Nevskiy", "Anastasia_MacAlister", "Sevil_Esposito", "Melissa_Witty",
-        "Evgeniy_Holmes", "Serg_Antonov", "Augustine_Morgan", "Artem_Fedukov", "Matthew_Esposito",
-        "Pavel_Morello", "Robert_Dobrov", "Mirella_Mayers", "Varlam_Bobko", "Vasiliy_Tverskoy",
-        "Anna_Tverskaya", "Yaroslav_Mayers", "Anatoliy_Nesterov", "Dmitriy_Prostorov", "Saburo_Itto",
-        "Anatoliy_Vercetti", "Nick_Tverskoy", "Anthony_Manrique", "Maximilian_Watanabe", "Kirill_Reall",
-        "Benjamin_Watson", "Aman_Dubrovskiy", "Pablo_Moore", "Oleg_Reall", "Veniamin_Mayers",
-        "Masato_Watanabe", "Matvey_Tverskoy", "Pavel_Belin", "Nikita_Linkov", "Mario_McCarthy",
-        "Robert_Nechiporenko", "Bill_Buffalo"
-    ],
-    "5": [
-        "Platon_Seven", "Kai_Mironov", "Alexandr_Silych", "Artem_Tyhkanov",
-        "Daniil_Caffrey", "Dmitriy_Polanski", "Mitsuo_Fox", "Alex_Robinson", "Alex_Vatkov",
-        "Alexander_McCartney", "Alexandr_Venevtsev", "Diana_Creighton", "Dmitriy_Repin", "Dmitry_Tomin",
-        "Emmanuel_Deus", "Mark_Andrusenko", "Rostislav_Imenov", "Amin_Cherry", "Konstantin_Dort",
-        "Richard_Ferrero", "Adam_Gromov", "Mehad_Still", "Sergey_Gadzhiev", "Angelo_Smith",
-        "Thomas_Anders"
-    ],
-    "6": [
-        "Denis_Manafort", "Andrey_Novak", "Markus_Berg", "Elizaveta_Berg",
-        "Alexander_Good", "Paul_Good", "David_Bystrov", "Artem_Darmin", "Georgiy_Zhilin",
-        "Maksim_KuIiy", "Arthur_Daniels", "Averardo_Capone", "Vladislav_Manarskiy", "Polter_Sokirovskiy",
-        "Oliver_Capone", "Hades_Manarskiy", "Andrew_Maguire", "Shiro_Vi", "Sergey_Berg",
-        "Osiris_Reinhardt", "Egoriy_Bobryshev", "Yuriy_Topolskin", "Hugo_Wolf", "Andrey_Loverd",
-        "Vladislav_Verkalo", "Lee_Capone", "Selvester_Loverd", "Leo_Nellson", "Ilya_Bobryshev",
-        "Ajay_Jackson", "Cody_Hoffmann", "Monte_Good", "Dany_Good", "August_Hoffmann",
-        "Vadim_Good", "Lucas_Loverd", "John_Keller", "Alexey_Nellson", "Mike_Fisher",
-        "Jamshut_Capone", "Ravshan_Jackson", "Dora_Massino", "Wolfgang_Loverd", "Roman_Manarskiy",
-        "Sergo_Good", "Oscar_Nellson", "Donald_Good", "Alexey_Nazarov", "Kiyoshi_Yakuza",
-        "Festmann_Reinhardt", "Damir_Shooters", "Bavar_Bavarskiy"
-    ],
-    "7": [
-        "Anthony_Paris", "Arnold_Fenix", "Stanislav_Zybinskiy", "Artemiy_Kornyakov",
-        "Leonid_Bosow", "Ivan_Homyakov", "Anton_Marshalov", "Artemiy_Mikado", "Denis_Milize",
-        "Anton_Zalutcki", "Daniel_Harrington", "Aleksey_Novgorodskiy", "Nikolay_Bosow", "Jet_Rakhimov",
-        "August_Verstappen", "Kevin_Reichelderfer", "Bronislav_Richter", "Felix_Kogut",
-        "Valentin_Mikado", "Michael_Mikado", "Sergey_Sheremetev", "Mars_Holmes", "Zagid_Mikado",
-        "Lina_Reichelderfer", "Nikolay_Wolf", "Daniele_Homyakov", "Matteo_Williams", "Maxim_Sharganov",
-        "Chapman_Mikado", "Hariton_Bosow", "Christopher_Winchester", "Khavr_Zakharov", "Nikita_Muver",
-        "Pavel_Homyakov", "Konstantin_Phantom", "Dmitriy_Mikasso", "Daniel_Lazarev"
-    ]
-}
+  {
+    "1": ["Emily_Quincy", "Dmitriy_Ogonkov", "Alim_Komarov", "Jack_Morozov", "Sergey_Streltsov", "Nestor_Rutherford", "Adrian_Litvintsev", "Alex_Morrison", "Andrey_Valyaev", "Artem_Augustov", "Artemiy_Lisiuk", "Egor_Sobakevich", "Ivan_Gryb", "Kamilla_Florenz", "Melody_Wayne", "Nick_Kotik", "Vladimir_Smash", "Wolfgang_Schneiderhan", "Ivan_Prahodskiy", "Pavel_Toporov", "Veynar_Halvardsen", "Artem_Pankov", "David_Seliverstov", "Dmitriy_Kabanchikov", "Eric_Morris", "Ethan_Santoro", "Sergey_Gromenko", "Stepan_Vorobyev"],
+    "2": ["Maria_Alekseeva", "Alexander_Krutov", "Arseniy_Maltsev", "William_Great", "Alexander_Gasanov", "Antonio_Zubenko", "Dmitriy_Ostrovskiy", "Franklin_White", "Maxim_Gornadzorov", "Aleksandr_Grozniy", "Aleksandr_Biketov", "Daniil_Lantratov", "Daniil_Wolskiy", "Dmitry_Pretty", "Don_Vice", "Illya_Santiz", "Jack_Turner", "Vladislav_Alen", "Karolina_Kaspiyskaya", "Stefan_King", "Roman_Lisov", "Pablo_King", "Vladislav_Townley", "Vyacheslav_Rublev", "Danil_Naumow", "Daniil_Burdin", "Crow_Green", "Tony_King", "Kita_Kayman", "Rodion_Topolskiy", "Evgeniy_Wolskiy", "Danila_Flaneks", "Angelar_Kayman", "Alexey_Krutov", "Leo_King", "Jonathan_Kayman", "Max_Gyf", "Evgeniy_Sukhumskiy", "Yaroslav_Korneev", "Vladislav_Voronkov"],
+    "3": ["Arnold_Fenix", "Eric_Collins", "Danil_Astov", "Dmitriy_Scheglov", "Eduard_Vysotskiy", "Fedor_Khalifa", "Prokhor_Lukoyanov", "Vladislav_Sutagin", "Alex_Trushin", "Alexandr_Yankee", "Alina_Solntsevskaya", "Dmitriy_Dennica", "Francesco_Grizzly", "Ilya_Anillov", "Ivan_Ryzov", "Kirill_Mirnyy", "Radmir_Pyatkin", "Ramiz_White", "Rodion_Vistnik", "Sergei_Black", "Sergei_Yamrazh", "Thomas_Barinov", "Torsten_Gerwig", "Vladislav_Macalister", "Daniil_Shock", "Ivan_Odintsov", "Maksim_Kancler", "Mironu_Kataray", "Egor_Hill", "Andrei_Collins", "Dmitriy_Eagle", "Ilya_Sovietsky", "Kirill_Shpilkov"],
+    "4": ["Claus_Nevskiy", "Anastasia_MacAlister", "Sevil_Esposito", "Melissa_Witty", "Evgeniy_Holmes", "Serg_Antonov", "Augustine_Morgan", "Artem_Fedukov", "Matthew_Esposito", "Pavel_Morello", "Nick_Tverskoy", "Robert_Dobrov", "Mirella_Mayers", "Varlam_Bobko", "Vasiliy_Tverskoy", "Anna_Tverskaya", "Anthony_Manrique", "Anatoliy_Nesterov", "Dmitriy_Prostorov", "Saburo_Itto", "Anatoliy_Vercetti", "Maximilian_Watanabe", "Chad_Morgan", "Oleg_Reall", "Aman_Dubrovskiy", "Pablo_Moore", "Masato_Watanabe", "Robert_Nechiporenko", "Pavel_Belin", "Matvey_Tverskoy", "Hiroyuki_Sanada", "Thomas_Heisenberg", "Vitaliy_Gurkin", "Vincenzo_Salieri", "Gordon_Gardner", "Noah_Don", "Jacob_Holmes"],
+    "5": ["Platon_Seven", "Kai_Mironov", "Alexandr_Silych", "Artem_Tyhkanov", "Daniil_Caffrey", "Dmitriy_Polanski", "Mitsuo_Fox", "Adam_Gromov", "Alex_Robinson", "Alex_Vatkov", "Alexandr_Venevtsev", "Diana_Creighton", "Dmitriy_Repin", "Dmitry_Tomin", "Konstantin_Dort", "Mark_Xaus", "Rostislav_Imenov", "Alexander_McCartney", "Alexandr_Wigman", "Amin_Cherry", "Angelo_Smith", "Thomas_Anders", "Artem_Hamilton", "James_Moriarty", "Mason_Montana", "Mikhael_Volkov", "Baudi_Sharapudinov", "Maksim_Morris"],
+    "6": ["Denis_Manafort", "Andrey_Novak", "Markus_Berg", "Elizaveta_Berg", "Georgiy_Zhilin", "Paul_Good", "David_Bystrov", "Artem_Darmin", "Maksim_KuIiy", "Arthur_Daniels", "Averardo_Capone", "Vladislav_Manarskiy", "Oliver_Capone", "Hades_Manarskiy", "Shiro_Vi", "Sergey_Berg", "Osiris_Reinhardt", "Egoriy_Bobryshev", "Yuriy_Topolskin", "Hugo_Wolf", "Vladislav_Verkalo", "Lee_Capone", "Leo_Nellson", "Monte_Good", "Albus_Good", "Cody_Hoffmann", "John_Keller", "Mike_Fisher", "Ravshan_Jackson", "Dora_Massino", "Roman_Manarskiy", "Sergo_Good", "Armando_Herrington", "Dany_Good", "Vadim_Good", "Jamshut_Capone", "Alexey_Nellson", "Festmann_Reinhardt", "Damir_Shooters", "Bavar_Bavarskiy", "Evike_Romanova", "Rudolf_Manarskiy", "Arya_Nellson", "Oscar_Nellson", "Mino_Damone", "Artem_Watkowski"],
+    "7": ["Anthony_Paris", "Artemiy_Kornyakov", "Adriel_Vlasov", "Leonid_Bosow", "Ivan_Homyakov", "Anton_Marshalov", "Eli_Mikado", "Denis_Milize", "Anton_Zalutcki", "Daniel_Harrington", "Aleksey_Novgorodskiy", "Nikolay_Bosow", "Jet_Rakhimov", "August_Verstappen", "Kevin_Reichelderfer", "Bronislav_Richter", "Felix_Kogut", "Valentin_Mikado", "Asahi_Montano", "Lina_Reichelderfer", "Nikolay_Wolf", "Sergey_Sheremetev", "Daniele_Homyakov", "Mars_Holmes", "Maxim_Sharganov", "Chapman_Mikado", "Christopher_Winchester", "Khavr_Zakharov", "Nikita_Muver", "Edward_Adamson", "Pavel_Homyakov", "Dmitriy_Mikasso", "Daniel_Lazarev", "Ivan_Pupyshev", "Daniel_Mayer", "Aleksiy_Kotz", "Felix_Montano", "Alvaro_Navarro", "Juster_Hillton", "Vladislav_Rotov"]
+  }
 ]
